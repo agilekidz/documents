@@ -1,4 +1,4 @@
-# Individual Carl Holmberg Week 1
+# Individual Carl Holmberg Week 2
 
 ## What do I want to learn or understand better?
 I am very interested in learning how to structure a project like this, with docker and all that. Rasmus knows alot about this so i will try to learn as much as i can about the structure.
