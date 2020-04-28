@@ -1,4 +1,4 @@
-# Individual Carl Holmberg Week 1
+# Individual Carl Holmberg Week 3
 
 ## What do I want to learn or understand better?
 I want to better understand how react works because I have mostly coded on the backend but I want to get some experience writing frontend code. I want to better understand my role as scrum master and continue inspiring our group to continue following an agile workflow.
