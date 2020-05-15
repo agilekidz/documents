@@ -1,4 +1,4 @@
-# Individual Carl Holmberg Week 3
+# Individual Carl Holmberg Week 4
 ## What do I want to learn or understand better?
 I want to learn to use react to write frontends and the methods we have chosen to structure the frontend of the application. I did not have a chance to learn this during this sprint. I also want to better understand how to break up user-stories into tasks because this sprint the tasks went into eachother and were small so this sprint I want to learn to break up tasks into a good size and more create more vertical tasks.
 
