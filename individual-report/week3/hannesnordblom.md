@@ -1,5 +1,5 @@
 # Individuell reflektion
-## Vecka 2 – Hannes Nordblom
+## Vecka 3 – Hannes Nordblom
 ### Vad vill jag lära mig mer om eller förstå bättre?
 Jag vill just nu främst lära mig om hur verktygen vi använder fungerar eftersom jag inte jobbat särskilt mycket med webbutveckling innan.
 ### Hur kan jag hjälpa någon annan, eller hela gruppen, att lära sig något nytt?
