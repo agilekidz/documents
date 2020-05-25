@@ -2,8 +2,8 @@
 ## What do I want to learn or understand better?
 I want to better understand why we made some of the descisions that we made early in the project. 
 I want to better understand what can be done in the case that the tasks run out. 
-We discussed slack tasks. 
-It feels like a waste if you underestimate that some people should just sit of time.
+We discussed using slack tasks to help when people don't have any tasks left to do. 
+It feels like a waste if you overestimate the time the tasks in the sprint will take, that some people should just do nothing for the rest of the sprint. This is not an optimal case but we had this problem so we thought a bit about it.
 
 ## How can I help someone else, or the entire team, to learn something new?
 I can try to prepare for the coming report so that I can be of use when are going to write.
